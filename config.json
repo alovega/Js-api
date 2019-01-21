@@ -1,0 +1,5 @@
+{
+    "secret": "Kevin LUG4Z1V4",
+    "audience": "nodejs-jwt-auth",
+    "issuer": "https://gonto.com"
+  }
